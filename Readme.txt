@@ -13,6 +13,10 @@ supports the book "The Elements of Computing Systems" by Nisan and Schocken,
 MIT Press 2005. If you modify the contents of this file, please document and
 mark your changes clearly, for the benefit of others.
 
+This is a fork of the project nand2tetris, please visit http://nand2tetris.org/ for the original project.
+
+This is simply a multicore implementation for the CPUEmulator.
+
 
 Contents
 --------

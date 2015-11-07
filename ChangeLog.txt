@@ -14,6 +14,8 @@ MIT Press 2005. If you modify the contents of this file, please document and
 mark your changes clearly, for the benefit of others.
 
 
++ Added MultiCore Support
+
 2.5
 ===
 
